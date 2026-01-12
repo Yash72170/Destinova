@@ -71,7 +71,7 @@ function Hero() {
           <DialogHeader>
             <DialogTitle className="font-extrabold font-mono text-black text-2xl text-center mb-2">
               <img className="h-20 mx-auto" src="logoo.jpg" alt="Journix Logo" />
-              Hey, Welcome to Journix!
+              Hey, Welcome to Destinova!
             </DialogTitle>
             <DialogDescription>
               <Button onClick={login} className="w-full flex items-center justify-center gap-2 py-3">
