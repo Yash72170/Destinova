@@ -74,7 +74,7 @@ function Header() {
   <div className="flex justify-center items-center cursor-pointer">
     <img className="h-10 md:h-16" src="/logoo.jpg" alt="Logo" />
     <div className="from-accent-foreground font-bold py-1 md:py-2 text-center text-xl lg:text-3xl">
-      Journix
+      Destinova
     </div>
   </div>
 </Link>
@@ -129,7 +129,7 @@ function Header() {
           <DialogHeader>
             <DialogTitle className="font-extrabold font-mono text-black text-2xl text-center mb-1">
               <img className="h-20" src="logoo.jpg" />
-              Hey, Welcome to Journix !
+              Hey, Welcome to Destinova !
             </DialogTitle>
             <DialogDescription>
               <Button onClick={login} className="w-full">
