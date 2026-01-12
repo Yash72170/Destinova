@@ -117,7 +117,7 @@ function CreateTrip() {
     <div className="sm:px-10 md:px-32 lg:px-56 xl:px-60 px-5 p-10 bg-slate-50">
       <h2 className="font-bold text-3xl">Let's Create a Trip🏕️</h2>
       <p className="mt-3 text-gray-500 text-xl">
-        Just provide some basic information, Journix will generate
+        Just provide some basic information, Destinova will generate
         a complete plan and customized itinerary based on your preferences 
       </p>
       <div className="mt-20 flex flex-col gap-10">
